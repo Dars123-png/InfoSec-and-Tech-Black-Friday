@@ -143,6 +143,13 @@ sections:
         focus: Red/Blue
         notes: Hands-on cybersecurity training from practitioners for practitioners.
         taken: false
+      - vendor: Red Team LLC
+        url: https://redteam.vip
+        deal: "Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799"
+        ends: 2026-11-30
+        focus: Red
+        notes: Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1.
+        via: "@DavidProbinsky"
       - vendor: Blu Raven
         url: https://academy.bluraven.io/courses
         deal: Up to 40% off Courses
