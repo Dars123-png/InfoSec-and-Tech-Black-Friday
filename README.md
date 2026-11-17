@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**47 active deals** of 47 listed
+**48 active deals** of 48 listed
 
-_Last updated: Nov 15, 2026 16:23 PST_
+_Last updated: Nov 16, 2026 18:48 PST_
 
 ## Table of contents
 
@@ -65,6 +65,7 @@ _Last updated: Nov 15, 2026 16:23 PST_
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
+| [Hexordia](https://learn.hexordia.com/s/store) | 35% off Hexordia classes and class vouchers | `26BF35` | Nov 23 – Dec 7 (11:59 PM ET) | Blue | Applies to on-demand and virtual live classes and to class vouchers. |
 | [White Knight Labs](https://whiteknightlabs.com/) 💖 | 50% off Certification Courses and 6/12 month Academy Passes | `WKLBLACKFRIDAY26` | Nov 27 – Dec 18 | Red | Offensive focused training and certifications |
 | [AppSec.training](https://appsec.training) | 50% off | `blackfriday` | Dec 31 | Security | via [@GHULI3V](https://github.com/GHULI3V) |
 | [OffSec](https://portal.offsec.com/checkout/?view=learn-one) 💖 | $550 off Learn One Courses | — | Jan 4, 2027 | Red/Blue | Learn One is a year of access to one course plus exam attempts. |
