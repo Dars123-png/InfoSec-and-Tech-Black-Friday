@@ -253,6 +253,15 @@ sections:
         focus: Red / Blue
         notes: Applied automatically at checkout, no code
         via: "@Kaicastledine"
+      - vendor: Hexordia
+        url: https://learn.hexordia.com/s/store
+        deal: 35% off Hexordia classes and class vouchers
+        code: "26BF35"
+        starts: 2026-11-23
+        ends: 2026-12-07
+        ends_note: 11:59 PM ET
+        focus: Blue
+        notes: Applies to on-demand and virtual live classes and to class vouchers.
                
   - id: labs
     title: Practical Labs
