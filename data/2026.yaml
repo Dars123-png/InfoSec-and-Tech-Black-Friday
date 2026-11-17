@@ -262,6 +262,12 @@ sections:
         ends_note: 11:59 PM ET
         focus: Blue
         notes: Applies to on-demand and virtual live classes and to class vouchers.
+      - vendor: TCM Security
+        url: https://tcm-sec.com/
+        deal: 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training 
+        ends: 2026-11-30
+        focus: Red / Blue
+        notes: Applied automatically at checkout, no code
                
   - id: labs
     title: Practical Labs
