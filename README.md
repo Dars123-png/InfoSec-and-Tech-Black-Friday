@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**48 active deals** of 48 listed
+**49 active deals** of 49 listed
 
-_Last updated: Nov 16, 2026 18:48 PST_
+_Last updated: Nov 17, 2026 02:48 PST_
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ _Last updated: Nov 16, 2026 18:48 PST_
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off the first month or the whole first year of any subscription plan | — | Dec 1 | Blue | Live CVE, exploited-vulnerability and malware intelligence with API, RSS and alerts. Free plan with API access (30 requests/day). · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Breach](https://breach.offseq.com/#pricing) | 50% off the first billing period of any paid plan | `BLACK` | Dec 2 | Blue | Leaked-credential monitoring for your domains across breach datasets, forums and Telegram. Free start. · via [@thistehneisen](https://github.com/thistehneisen) |
 | [OffSeq Pulse](https://pulse.offseq.com/pricing) | 50% off the first year or first month for new customers | — | Dec 2 | Blue | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. First 2 devices free. · via [@thistehneisen](https://github.com/thistehneisen) |
-| [PortDroid](https://portdroid.net/black-friday-2026/) ✨ | 50% off PortDroid Pro | `CYBER_2026` | Dec 4 | general | Android network toolkit with 17 tools. Android only; one-time lifetime purchase. Enter the code inside the app, not on the website. |
+| [PortDroid](https://portdroid.net/black-friday-2026/) ✨ | 50% off ProDroid Pro | `CYBER_2026` | Dec 4 | general | Android network toolkit with 17 tools. Android only; one-time lifetime purchase. Enter the code inside the app, not on the website. |
 | [Scanify](https://scanify.to/pricing?code=BFPRO) | 50% off Pro for 3 months ($10/mo instead of $20) | `BFPRO` | Dec 9 | Blue | Link, file, QR code and IP checker with 95+ antivirus engines, domain age, redirects and a sandbox screenshot. Renews at $20/mo, cancel anytime. · via [@techkar1m](https://github.com/techkar1m) |
 | [Vulnsy](https://www.vulnsy.com/) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 | Red |  |
 
@@ -60,6 +60,7 @@ _Last updated: Nov 16, 2026 18:48 PST_
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI | Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are. |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% of hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [RedTeamLeaders](https://courses.redteamleaders.com) | 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA | `NEXTSTEP100` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
+| [TCM Security](https://tcm-sec.com/) | 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training | — | Nov 30 | Red / Blue | Applied automatically at checkout, no code |
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% of hacking labs and certifications | — | Nov 30 | Red |  |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
