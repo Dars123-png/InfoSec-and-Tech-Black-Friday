@@ -427,3 +427,10 @@ sections:
         focus: Cloud
         notes: Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance
         via: "@vanani11"
+      - vendor: Faivelo
+        url: https://faivelo.com/black-friday
+        deal: 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts)
+        ends: 2026-12-01
+        focus: General
+        notes: Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain
+        via: "@ethannschwartz"
