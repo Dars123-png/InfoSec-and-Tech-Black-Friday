@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**49 active deals** of 49 listed
+**50 active deals** of 50 listed
 
-_Last updated: Nov 17, 2026 02:54 PST_
+_Last updated: Nov 17, 2026 16:26 PST_
 
 ## Table of contents
 
@@ -64,6 +64,7 @@ _Last updated: Nov 17, 2026 02:54 PST_
 | [TrainSec](https://trainsec.net/cybersecurity-courses-black-friday-2026/) 💖 | 40% off individual courses and plans | `BF2026` | Nov 30 | Security / Dev | Windows internals, kernel and low-level security courses. |
 | [VantagePoint](https://vantagepoint.enciphers.com/) | 70% of hacking labs and certifications | — | Nov 30 | Red |  |
 | [TheXero Training Academy](https://training.thexero.co.uk/) | 67% off Wireless Operator course | — | Dec 1 | Red |  |
+| [Wireshark Labs](https://wiresharklabs.org/) | Hands-on Wireshark labs with real packet captures: WCA exam prep $199.99 → $99.99, Ranger (real-world cases) $249.99 → $179.99 | `PACKETFRIDAY` | Dec 1 (until Dec 2, 08:00 UTC) | Networking | via [@oripka](https://github.com/oripka) |
 | [pwn.guide](https://pwn.guide) | 20% off plans | `BLKFRI20` | Dec 5 | Red |  |
 | [Practical Networking](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) | Practical TLS: 83% off -- only $50, originally $297 | `BF2026TLS` | Dec 6 | Networking / Security | SSL/TLS deep dive including TLS 1.3, PKI, and 40+ OpenSSL/Wireshark labs · via [@erh-git](https://github.com/erh-git) |
 | [Hexordia](https://learn.hexordia.com/s/store) | 35% off Hexordia classes and class vouchers | `26BF35` | Nov 23 – Dec 7 (11:59 PM ET) | Blue | Applies to on-demand and virtual live classes and to class vouchers. |
@@ -133,6 +134,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@ssecurityy](https://github.com/ssecurityy)
 - [@techkar1m](https://github.com/techkar1m)
 - [@thistehneisen](https://github.com/thistehneisen)
+- [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
 - [@erh-git](https://github.com/erh-git)
 - [@Kaicastledine](https://github.com/Kaicastledine)
