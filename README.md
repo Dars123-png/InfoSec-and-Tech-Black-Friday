@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**51 active deals** of 51 listed
+**52 active deals** of 52 listed
 
-_Last updated: Nov 17, 2026 16:27 PST_
+_Last updated: Nov 17, 2026 16:28 PST_
 
 ## Table of contents
 
@@ -124,6 +124,7 @@ _Nothing yet. Know of a deal? See [Contribute](#contribute)._
 | Vendor | Deal | Code | Dates | Focus | Notes |
 |---|---|---|---|---|---|
 | [Proton Mail](https://proton.me/mail/black-friday) ✨ | 50% off annual subscription | — | Nov 30 |  |  |
+| [Faivelo](https://faivelo.com/black-friday) | 80% off email hosting for your own domain, $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts) | — | Dec 1 | General | Unlimited mailboxes, aliases and domains on one plan, 25 GB shared storage, webmail and calendar, works with any IMAP app. Bring your own domain · via [@ethannschwartz](https://github.com/ethannschwartz) |
 | [Kinsta](https://kinsta.com/black-friday/) | 3 months free on annual plans or 50% off the first 3 months on monthly plans (new customers) | — | Dec 1 | Cloud | Managed hosting for WordPress secured by Cloudflare, with Vulnerability Protection by Patchstack, SOC 2 and ISO 27001 compliance · via [@vanani11](https://github.com/vanani11) |
 
 ## Contribute
@@ -141,6 +142,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@erh-git](https://github.com/erh-git)
 - [@Kaicastledine](https://github.com/Kaicastledine)
 - [@vanani11](https://github.com/vanani11)
+- [@ethannschwartz](https://github.com/ethannschwartz)
 
 ## Past years
 
