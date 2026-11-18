@@ -13,9 +13,9 @@ Even if something makes the list, do your due diligence so you aren't getting sc
 
 **Legend:** 💖 training I've taken and liked · ✨ gear or services I've used · ~~struck through~~ means the deal has ended
 
-**50 active deals** of 50 listed
+**51 active deals** of 51 listed
 
-_Last updated: Nov 17, 2026 16:26 PST_
+_Last updated: Nov 17, 2026 16:27 PST_
 
 ## Table of contents
 
@@ -58,6 +58,7 @@ _Last updated: Nov 17, 2026 16:26 PST_
 | [MalDev Academy](https://maldevacademy.com/) 💖 | 25% off courses | `BLKFRIDAY25` | Nov 30 | Red/Blue | Malware development and evasion. Useful for red teamers and for defenders who want to understand what they’re detecting. |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | 15% off courses not already on sale, the first Plus or Max payment and the All Access pass | — | Nov 23 – Nov 30 | Red / Blue | Applied automatically at checkout, no code · via [@Kaicastledine](https://github.com/Kaicastledine) |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/) 💖 | 15% off certs, up to $600 off bundles | — | Nov 30 | Security / AI | Hands-on DevSecOps certifications with practical exams. Bundles are where the bigger savings are. |
+| [Red Team LLC](https://redteam.vip) | Founding Member (early access) price: $99 per course (full price $199 to $399); all 10 courses $799 | — | Nov 30 | Red | Physical entry, RFID and access control, social engineering, recon and reporting. Founding Members get every future video at no extra cost. Legal, Ethical & Regulatory Foundations goes from $99 to $199 on Dec 1. · via [@DavidProbinsky](https://github.com/DavidProbinsky) |
 | [RedTeamLeaders](https://courses.redteamleaders.com/catalog) | 50% of hacking labs and certifications | `BLACKFRIDAY50` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [RedTeamLeaders](https://courses.redteamleaders.com) | 100% off CLLMSP CLLMSE CCEP CGRCP CNSF CSCRB CTIGA | `NEXTSTEP100` | Nov 30 | Red | Pricing in Brazilian Real, verified discounts. DYOR. |
 | [TCM Security](https://tcm-sec.com/) | 50% off first payment on Academy memberships (go annual for the full value), 20% off certifications, learning paths, and live training | — | Nov 30 | Red / Blue | Applied automatically at checkout, no code |
@@ -136,6 +137,7 @@ Know a deal that belongs here? Add it to [`data/2026.yaml`](data/2026.yaml) and 
 - [@thistehneisen](https://github.com/thistehneisen)
 - [@oripka](https://github.com/oripka)
 - [@GHULI3V](https://github.com/GHULI3V)
+- [@DavidProbinsky](https://github.com/DavidProbinsky)
 - [@erh-git](https://github.com/erh-git)
 - [@Kaicastledine](https://github.com/Kaicastledine)
 - [@vanani11](https://github.com/vanani11)
