@@ -286,13 +286,15 @@ sections:
       - vendor: PwnedLabs
         url: https://pwnedlabs.io/
         deal: 25% off boot camps and subscriptions
+        code: "BLACKFRIDAY25"
         ends: 2026-11-30
         focus: red
         taken: true
+        notes: Applies to ACRTP, MCRTP, GCRTP, AISRTP, KRTP bootcamps and lab subscriptions. 
                
   - id: labs
--    title: Practical Labs
-    emoji: 🧪-
+    title: Practical Labs
+    emoji: 🧪
     deals:
       - vendor: LabEx Pro (1 Year)
         url: https://labex.io/checkout?type=2&coupon=2026BF30
